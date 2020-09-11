@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAP-PRAK-011", "YAP-PRAK-011.csproj", "{BA70824F-4CFC-4F4C-AB62-192B4CD37A47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA70824F-4CFC-4F4C-AB62-192B4CD37A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA70824F-4CFC-4F4C-AB62-192B4CD37A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA70824F-4CFC-4F4C-AB62-192B4CD37A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA70824F-4CFC-4F4C-AB62-192B4CD37A47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8298A680-F268-402B-8148-A5DA620CD81F}
+	EndGlobalSection
+EndGlobal
